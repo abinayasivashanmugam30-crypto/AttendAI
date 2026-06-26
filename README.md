@@ -1,0 +1,2 @@
+# AttendAI
+Attendance monitoring system 
